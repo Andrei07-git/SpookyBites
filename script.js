@@ -104,7 +104,7 @@ function placeOrder() {
         ${discount > 0 ? `10% Discount: -₱${discount.toFixed(2)}<br>` : ''}
         <strong>Final Total: ₱${total.toFixed(2)}</strong><br>
         <em>${recommendation}</em><br>
-        Enjoy your spooky meal! NYAHAHAHAHA 🎃
+        Enjoy your meal! NYAHAHAHAHA 🎃
     `;
 }
 
